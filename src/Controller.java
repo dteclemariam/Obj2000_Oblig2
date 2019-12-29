@@ -6,7 +6,7 @@ public class Controller {
 	private int antallHarer = 0;
 	private int antallGauper = 0;
 	
-	
+	//test
 	
 	public Controller() {
 		// TODO Auto-generated constructor stub
