@@ -108,7 +108,7 @@ public class Grensesnitt {
 	public void regGaupe() {
 		Gaupe gaupen = new Gaupe();
 		gaupen.setTypeDyr
-				("Hare");
+				("Gaupe");
 		gaupen.setId
 				("G" + (controller.getAntallGauper() + 1));
 		gaupen.setKjønn
